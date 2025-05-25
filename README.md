@@ -90,6 +90,14 @@ This project inherits the MIT license from `llama-cpp-python`. Tanya-specific mo
 
 ## ❤️ Credits
 
-- [`llama.cpp`](https://github.com/ggerganov/llama.cpp)
-- [`llama-cpp-python`](https://github.com/abetlen/llama-cpp-python)
-- Tanya AI design by [MCOGraphics]
+This project exists because of the outstanding open-source work of two creators whose efforts made it possible to bring Tanya to life:
+
+- **[@ggerganov](https://github.com/ggerganov)** – for creating [`llama.cpp`](https://github.com/ggerganov/llama.cpp), a fast and lightweight C++ inference engine for LLaMA models. His dedication to performance and simplicity forms the backbone of the local LLM runtime used here.
+
+- **[@abetlen](https://github.com/abetlen)** – for building [`llama-cpp-python`](https://github.com/abetlen/llama-cpp-python), a powerful and user-friendly Python binding for `llama.cpp`. His work bridges C++ with Python seamlessly, enabling direct integration into AI assistant systems like Tanya.
+
+Both of these projects are distributed under the MIT license, and this fork extends their efforts only to adapt for CUDA acceleration and voice-based AI assistant usage.
+
+**Respect and thanks to both authors for their incredible contributions to the open-source AI community.**
+
+---
