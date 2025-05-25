@@ -1,3 +1,5 @@
+!!WORK IN PROGRESS PROJECT!!
+
 # llama-cpp-python-tanya
 
 > **CUDA-accelerated Python bindings for `llama.cpp`, integrated into Tanya — a local tactical AI assistant.**
